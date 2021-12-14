@@ -1,0 +1,151 @@
+div.hero{
+    background-color: #1f2937;
+}
+
+div.headers{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+div.logo{
+    padding-left: 9%;
+}
+
+div.about {
+    padding-left: 40%;
+}
+
+div.contact{
+    padding-left: 10%;
+}
+
+div.main_title{
+    display: flex;
+    flex-direction: row;
+    padding-left: 0.1%;
+    margin: 9%;
+}
+
+div.image{
+    display: flex;
+    flex-direction: row;
+    padding-left: 20%;
+}
+
+div.heading button{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: none;
+    text-align: center;
+    padding: 16px;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;  
+}
+
+h1{
+    color: #f9faf8;
+    font-size: 48px;
+}
+
+p{
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+h3{
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+h4{
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
+div.info_ h1{
+    color: #1F2937;
+    text-align-last: center;
+    font-size: 36px;
+}
+
+div.images{
+    display: inline-flex;
+    flex-direction: row;
+    padding-left: 2.5%;
+    margin: 10%;
+}
+
+div.images p{
+    color: rgb(66, 64, 64);
+}
+
+div.img1{
+    border-radius: 30%;
+    margin: 2%;
+}
+
+div.img2{
+    border-radius: 30%;
+    margin: 2%;
+}
+
+div.img3{
+    border-radius: 30%;
+    margin: 2%;
+}
+
+div.img4{
+    border-radius: 30%;
+    margin: 2%;
+} 
+
+div.quote{
+    background-color: #E5E7EB;
+    margin: 10px;
+}
+
+div.quote p{
+    color: #1f2937;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 10%;
+}
+
+div.quote h3{
+    color: #1f2937;
+    font-size: 36px;
+    padding-bottom: 1%;
+    padding-left: 75%;
+}
+
+div.CallToAction{
+    display: flex;
+    flex-direction: row;
+    background-color: #3882F6;
+    border-radius: 12px;
+    margin: 10%;
+}
+
+div.text{
+    color: #F9FAF8;
+    margin: 2%;
+    padding-left: 5%;
+}
+
+div.button button{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 20px;
+    cursor: pointer;
+    border-color: #F9FAF8;
+    border-width: 2px;
+    border-radius: 5px;
+}
+
+div.button{
+    padding: 55px;
+    padding-left: 30%;
+}

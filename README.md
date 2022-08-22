@@ -1,5 +1,5 @@
 # Landing-page
-Microverse Landing page project
+A simple website landing page built with HTML & CSS 
 
 ## Built With
 
